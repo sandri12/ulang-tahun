@@ -13,9 +13,7 @@
 </head>
 <body>
     <audio class="song" loop autoplay>
-        <source src="music 1.mp3">
-        </source>
-        Your browser isn't invited for super fun audio time.
+        <source src="music 1.mp3">  </source>
     </audio>
     <div class="container">
         <div class="one">
@@ -134,9 +132,7 @@
         </div>
     </div>
 </body>
-    <!-- Greensock -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
-    <!-- Sweetalert -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script type="application/javascript" src="main.js"></script>
 
