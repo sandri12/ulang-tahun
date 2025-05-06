@@ -54,7 +54,7 @@
             <img src="meita.jpg" alt="profile" class="profile-picture" id="imagePath"/>
             <img src="img/hat.svg" alt="hat" class="hat" />
             <div class="wish">
-                <h3 class="wish-hbd">dia wanita yang sangat cantikk </h3>
+                <h3 class="wish">dia wanita yang sangat cantikk </h3>
                 <h5 id="wishText">aku beruntung disampingnya, bahagia mendapatkannya dan bersyukur memilikinya </h5>
             </div>
         </div>
