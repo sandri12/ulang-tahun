@@ -38,7 +38,7 @@
             <p class="idea-2"> tepat di tanggal 7 Mei ini </p>
             <p class="idea-3">
                 telah terlahir makhluk yang indah di dunia ini <br>
-                <strong>dia spesial </strong>
+                <strong>dia spesial </strong> .
             </p>
             <p class="idea-4">aku bersyukur</p>
             <p class="idea-5">
